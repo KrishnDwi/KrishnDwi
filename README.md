@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am KrishnDwi </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center" width="150px"> Hi There, i'm a begginer developer, here some information about me.<br>Thankyou.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKrishnDwi4%7D/count.svg" alt="visitor badge"/></p>
@@ -24,7 +24,7 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
-### 🔗 &nbsp;Connect with me
+### :link: &nbsp;Connect with me
 
 <p align="center">
 <a href="mailto:220030121@stikom-bali.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
